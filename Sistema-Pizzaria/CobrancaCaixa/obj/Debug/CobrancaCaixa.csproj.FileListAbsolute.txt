@@ -1,0 +1,15 @@
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe.config
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.Form1.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.Properties.Resources.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.Form2.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.csproj.CopyComplete

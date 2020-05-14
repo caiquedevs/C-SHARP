@@ -1,0 +1,12 @@
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.pdb

@@ -1,0 +1,12 @@
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb

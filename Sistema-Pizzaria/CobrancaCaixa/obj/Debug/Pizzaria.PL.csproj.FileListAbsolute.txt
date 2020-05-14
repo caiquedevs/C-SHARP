@@ -1,0 +1,86 @@
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe.config
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.BLL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.DAL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCadastrar.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormHome.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormOperacional.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.Properties.Resources.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutos.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedido.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProcurarCliente.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCriar.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutosEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormClientesEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\CobrancaCaixa\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedidoEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe.config
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.BLL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DAL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCriar.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedidoEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProcurarCliente.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutos.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCadastrar.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormHome.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormOperacional.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedido.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutosEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.Properties.Resources.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormClientesEDIT.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PROJETOS C#\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe.config
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\CobrancaCaixa.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.BLL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DAL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCriar.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedidoEDIT.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProcurarCliente.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutos.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormCadastrar.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormHome.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormOperacional.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormPedido.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormProdutosEDIT.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.Properties.Resources.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.FormClientesEDIT.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\Pizzaria.PL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.exe
+C:\Users\Caique\Documents\_PORTFOLIO\Sistema Pizzaria\CobrancaCaixa\obj\Debug\CobrancaCaixa.pdb

@@ -1,0 +1,46 @@
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.PL.exe.config
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.PL.exe
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.PL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.DAL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.BLL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\Agenda.DAL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.FORMULARIO.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.HOME.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.Properties.Resources.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.exe
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.CONSULTA.resources
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.PL\obj\Debug\Agenda.PL.FormEdita.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.PL.exe.config
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.PL.exe
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.PL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.DAL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.BLL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\Agenda.DAL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.CONSULTA.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.HOME.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.Properties.Resources.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.GenerateResource.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.exe
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.FormAdd.resources
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.PL\obj\Debug\Agenda.PL.FormAgenda.resources

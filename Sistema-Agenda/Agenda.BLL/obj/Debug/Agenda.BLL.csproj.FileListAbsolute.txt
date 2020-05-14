@@ -1,0 +1,28 @@
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.BLL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.DAL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.DAL.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PROJETOS C#\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.BLL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.DAL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.DTO.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.DAL.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\Agenda.DTO.pdb
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.csproj.CopyComplete
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.dll
+C:\Users\Caique\Documents\_PORTFOLIO\Agenda\Agenda.BLL\obj\Debug\Agenda.BLL.pdb
